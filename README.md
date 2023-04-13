@@ -21,4 +21,9 @@ Change connection strings in appsettings.json and DependencyInjection classes in
 Then change extension methods in both projects to "UseSQLite" and not "UseSqlServer".
 
 ---
-# Feel free to clone it and try it yourself!
+Feel free to clone it and try it yourself!
+
+# If you have any questions, contact me at:
+![](https://badgen.net/badge/Discord/gregory/purple?icon=discord) http://discordapp.com/users/354960587555471372  
+![](https://badgen.net/badge/LinkedIn/nickyaroshko/blue) https://www.linkedin.com/in/nickyaroshko/  
+![](https://badgen.net/badge/Gmail/nickyaroshko/red) nyaroshko1404@gmail.com
