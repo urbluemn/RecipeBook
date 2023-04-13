@@ -20,6 +20,13 @@ Change connection strings in appsettings.json and DependencyInjection classes in
 ![DependencyInjection](https://github.com/urbluemn/RecipeBook/blob/main/docs/DependencyInjection.png)  
 Then change extension methods in both projects to "UseSQLite" and not "UseSqlServer".
 
+
+---
+To launch the whole app you need to launch one project at a time.  
+1) Launch Auth server to start receiving tokens. You can login at Auth/Login and register you account at Auth/Register.
+2) Launch API and you'll see Swagger window pops up, here you can pass access token and try every method.
+3) Finally launch MVC project to get started.
+
 ---
 Feel free to clone it and try it yourself!
 
