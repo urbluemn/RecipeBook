@@ -1,0 +1,9 @@
+[submodule "RecipeBook.MVC"]
+	path = RecipeBook.MVC
+	url = https://github.com/urbluemn/RecipeBook.MVC
+[submodule "RecipeBook.API"]
+	path = RecipeBook.API
+	url = https://github.com/urbluemn/RecipeBook.API
+[submodule "RecipeBook.Identity"]
+	path = RecipeBook.Identity
+	url = https://github.com/urbluemn/RecipeBook.Identity
